@@ -3,9 +3,7 @@
 ## Trabalho A3 Criado pelo Grupo 5 - USJT (Ânima)
 
 ### Integrantes
-
--Bruno Souza / RA: 32226966;
-
+***
 -Abelardo Andrade Silva/ RA: 821219021; 
 
 -Emanuel Pereira Fernandes/ RA: 12823135743; 
@@ -17,9 +15,9 @@
 -Luiz Eduardo Mesquita da Silva/ RA: 823126287; 
 
 -Muryllo Oliveira Santana/ RA: 8222242965.   
-
+***
 ### Professores
 
 José Carmino
-***
+
 Bruno Henrique
