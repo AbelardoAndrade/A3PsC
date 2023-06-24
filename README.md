@@ -1,8 +1,8 @@
 # Trabalho A3 - PsC
 
-##Trabalho A3 Criado pelo Grupo 5 - USJT (Ânima)
+## Trabalho A3 Criado pelo Grupo 5 - USJT (Ânima)
 
-###Integrantes
+### Integrantes
 
 -Bruno Souza / RA: 32226966;
 
@@ -18,7 +18,7 @@
 
 -Muryllo Oliveira Santana/ RA: 8222242965.   
 
-###Professores
+### Professores
 
 José Carmino
 ***
