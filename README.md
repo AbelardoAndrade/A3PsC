@@ -1,7 +1,12 @@
 # Trabalho A3 - PsC
 
 ## Trabalho A3 Criado pelo Grupo 5 - USJT (Ânima)
+**
+# ATENÇÃO
 
+## CONTÉM DUAS VERSÕES - VERSÃO BETA 1.0 COM O LOGO E SEM CONEXÃO COM O DB
+## CONTÉM DUAS VERSÕES - VERSÃO 2.0 SEM O LOGO MAS CONECTADO AO BANCO DE DADOS
+**
 ### Integrantes
 ***
 -Abelardo Andrade Silva/ RA: 821219021; 
