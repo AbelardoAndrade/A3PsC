@@ -2,10 +2,11 @@
 
 ## Trabalho A3 Criado pelo Grupo 5 - USJT (Ânima)
 **
-# ATENÇÃO
+# ATENÇÃO - Instruções para possíveis erros
 
-## CONTÉM DUAS VERSÕES - VERSÃO BETA 1.0 COM O LOGO E SEM CONEXÃO COM O DB
-## CONTÉM DUAS VERSÕES - VERSÃO 2.0 SEM O LOGO MAS CONECTADO AO BANCO DE DADOS
+## CASO NÃO CONSIGA EXECUTAR O ARQUIVO .JAR NAVEGUE ATÉ O PROJETO NO NETBEANS E FAÇA UM BUILD LOGO APÓS EXECUTE.
+### EXISTE UM USUÁRIO PRÉ-CONFIGURADO ADMIN/ADMIN (Caso não consiga utilizar, crie um novo usuário em New User)
+### Caso ocorra erro com o banco de dados, abra-o no DB Browser SQLite, faça um clean/build e execute o programa.
 **
 ### Integrantes
 ***
