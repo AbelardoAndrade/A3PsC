@@ -19,6 +19,8 @@
 
 -Luiz Eduardo Mesquita da Silva/ RA: 823126287; 
 
+-Elder Araújo César/ RA: 322212958;
+
 -Muryllo Oliveira Santana/ RA: 8222242965.   
 ***
 ### Professores
